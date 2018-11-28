@@ -1,0 +1,7 @@
+Brick,1,8,0
+Brick,0,12,0
+Brick,1,12,0
+Brick,2,12,0
+Brick,3,12,0
+Brick,4,12,0
+End,5,12,0
